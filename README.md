@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Apaixonado+por+tecnologia;Construindo+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Backend+Software+Developer;Spring+Boot+%7C+FastAPI;Building+Scalable+APIs)](https://git.io/typing-svg)
 
 </div>
 
