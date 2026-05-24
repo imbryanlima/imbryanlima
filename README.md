@@ -26,7 +26,7 @@ public class BryanLima {
     public String[] objetivos() {
         return new String[]{
             "🚀 Construir APIs com Spring Boot e FastAPI",
-            "⚛️  Interfaces modernas com React & TypeScript",
+            "⚛️  Interfaces modernas com React & Angular",
             "🐳 Entregar com Docker e boas práticas DevOps",
             "📚 Aprender algo novo todo dia"
         };
